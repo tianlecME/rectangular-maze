@@ -1,2 +1,0 @@
-# rectangular-maze
-as name
